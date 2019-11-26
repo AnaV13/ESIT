@@ -24,7 +24,7 @@ int main(void){
         getchar();
             while(material[i].precio<0)
             {
-                printf("--Introduzca un precio valido: ");
+                printf("--Por favor, introduzca un precio valido: ");
                 scanf("%f", &material[i].precio);
                 getchar();
             }

@@ -1,0 +1,14 @@
+Suma: 
+24 88 141 
+5 68 86 
+61 37 69 
+
+
+Suma de elementos por fila del fichero matriz1: 
+100
+80
+116
+
+
+Minimo elemento de la diagonal principal del fichero matriz2: 
+12
